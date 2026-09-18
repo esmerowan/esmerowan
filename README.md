@@ -1,6 +1,6 @@
 <div align="center">
 
-# Esme Rowan
+# Hi. I am Esme Rowan
 
 **Full-Stack Engineer** · build · ship · refine
 

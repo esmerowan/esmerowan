@@ -39,10 +39,7 @@ Full-stack craft with less noise and more finish.
 
 ### featured work
 
-- [`Flexbox-Labs`](https://github.com/esmerowan/Flexbox-Labs) — Flexbox layout lab
-- [`Rocket-type`](https://github.com/esmerowan/Rocket-type) — typing practice web app
-
-*(swap for flagship full-stack products as they land)*
+> (swap for flagship full-stack products as they land)
 
 ---
 
